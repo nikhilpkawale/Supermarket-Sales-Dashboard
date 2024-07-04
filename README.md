@@ -1,14 +1,19 @@
-# Supermarket-Sales-Dashboard
+#### Supermarket-Sales-Dashboard (Power BI) ####
 
-To contribute to a business's performance by applying data analysis techniques, particularly time series analysis, to provide important insights and 
-precise predictions. 
+**Contributing to Business Performance through Data Analysis and Time Series Forecasting
+**
+I am dedicated to enhancing business performance by utilizing data analysis techniques, with a particular focus on time series analysis. My goal is to deliver critical insights and precise predictions that drive strategic decision-making and support growth, efficiency, and customer satisfaction. Below are the key components of my approach:
 
-The objective can be broken down into the following detailed components:
-
-* Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
-  
-* Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts
-  
-* Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days
-
-* Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction
+Dashboard Creation
+KPI Identification: Recognize the key performance indicators critical to the business.
+Intuitive Design: Develop dashboards that are visually appealing and easy to navigate.
+Interactive Visualizations: Incorporate interactive elements and filtering capabilities to allow users to explore data at various levels of granularity.
+Data Analysis
+Sales Strategy Insights: Analyze sales data to provide valuable insights into the effectiveness of current strategies.
+Visualization: Create charts and visualizations to help business entities understand complex data trends.
+Sales Forecasting
+Time Series Analysis: Use historical data to apply time series analysis techniques.
+15-Day Forecasts: Generate accurate sales forecasts for the upcoming 15 days, aiding in inventory and resource planning.
+Actionable Insights and Recommendations
+Strategic Decision-Making: Share insights that are not only informative but also actionable.
+Business Growth: Support the business's goals for growth, efficiency, and enhanced customer satisfaction through data-driven recommendations.
