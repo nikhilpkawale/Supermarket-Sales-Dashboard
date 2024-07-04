@@ -4,7 +4,7 @@ Contributing to Business Performance through Data Analysis and Time Series Forec
 
 I am dedicated to enhancing business performance by utilizing data analysis techniques, with a particular focus on time series analysis. My goal is to deliver critical insights and precise predictions that drive strategic decision-making and support growth, efficiency, and customer satisfaction. Below are the key components of my approach:
 
-Power BI Dashbord link: https://app.powerbi.com/view?r=eyJrIjoiNjU5OTJjYWQtNjRlYi00MDNjLThkOWYtYzMzZjM0ZjllZDM1IiwidCI6IjZkN2NlNGUwLWE2OGMtNDM3Ny05ZTdhLTdlNjZhMTZkZTM5NiJ9
+_Power BI Dashbord link_: https://app.powerbi.com/view?r=eyJrIjoiNjU5OTJjYWQtNjRlYi00MDNjLThkOWYtYzMzZjM0ZjllZDM1IiwidCI6IjZkN2NlNGUwLWE2OGMtNDM3Ny05ZTdhLTdlNjZhMTZkZTM5NiJ9
 
 ## Dashboard Creation
 
